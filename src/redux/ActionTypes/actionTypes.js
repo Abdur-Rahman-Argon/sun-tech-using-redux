@@ -8,3 +8,7 @@
 //   };
 
 export const ADD_TO_CART = "ADD_TO_CART";
+
+// fetching
+export const TOGGLE_BRAND = "TOGGLE_BRAND";
+export const TOGGLE_STOCK = "TOGGLE_STOCK";
